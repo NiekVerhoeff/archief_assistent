@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# default dev things
+.env
+.venv
+.vs/
+.vscode/
+.DS_Store
+.idea/
+
+# app specific things
+.archiefassistent_exports/
